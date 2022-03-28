@@ -1,4 +1,3 @@
-![veryacademy](/logo.svg)
 
 <div align="center">
   <h1>Django E-commerce Tutorial Series</h1>
