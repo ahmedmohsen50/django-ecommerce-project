@@ -13,14 +13,7 @@
 
 <br>
 
-<div align="center">
-  Please join our active, growing community: <br>
-  <a href="#">Website (Coming Soon)</a>
-  <span> | </span>
-  <a href="https://twitter.com/VeryAcademy">Twitter</a>
-  <span> | </span>
-  <a href="https://www.youtube.com/veryacademy">YouTube</a>
-</div>
+
 
 <br>
 
